@@ -3,7 +3,7 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <h1>Hello from Dimple!</h1>
+      <h1>Hello from austin!</h1>
       <p>This is my React app deployed with GitHub Pages.</p>
     </div>
   );
